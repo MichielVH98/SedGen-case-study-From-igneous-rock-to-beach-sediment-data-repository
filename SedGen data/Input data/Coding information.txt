@@ -1,0 +1,23 @@
+Field code 	---	Thin section code
+
+L1-1A			BR20MV01
+L1-1B			BR20MV02
+L1-3B			BR20MV03
+L1-4F			BR20MV04
+L1-4F bis		BR20MV05
+L2-1A			BR20MV06
+L2-1B			BR20MV07
+L2-3A			BR20MV08
+L2-3E			BR20MV09
+L2-3E bis		BR20MV10
+L3-1A			BR20MV11
+L3-1B			BR20MV12
+----------------------------------------
+L1 parent rock		BR20MV02
+L1 weathered rocks	BR20MV01+BR20MV03
+L1 beach rock		BR20MV04+BR20MV05
+L2 parent rock		BR20MV06+BR20MV07
+L2 weathered rock	BR20MV08+BR20MV09+BR20MV10
+L3 parent rock		BR20MV11+BR20MV12
+
+
